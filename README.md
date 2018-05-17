@@ -30,4 +30,4 @@ The Nitty Gritty (How to run the code and any requirements):
   Data: https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M
   Or at: https://www.kaggle.com/bittlingmayer/amazonreviews
 
-My name is Kelly Harner and you can view a description of my code: 
+My name is Kelly Harner and you can view a description of my code: https://youtu.be/OSpjcDvIzt4
